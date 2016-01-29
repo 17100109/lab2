@@ -3,10 +3,10 @@ Finance team
 -Lisa
 -John
 
-
 Marketing team
 -Collins
 -Linda
 -Patricia
 -Morgan
 -Amanda
+-Morgan
